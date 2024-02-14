@@ -1,4 +1,4 @@
-# gmemu-rs, a headless gameboy emulator *(WIP)*
+# gbemu-rs, a headless gameboy emulator *(WIP)*
 
 This is my attempt at writing a Gameboy emulator in Rust, started as a fun project to work on before my exams. The goal is to have a headless emulator that can be used as a library in other projects.
 
